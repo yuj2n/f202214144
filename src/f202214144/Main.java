@@ -5,5 +5,6 @@ public class Main {
 		Two.print();
 		System.out.println("one 202214144");
 		Three.print();
+		Four.print();
 	}
 }
